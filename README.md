@@ -3,11 +3,11 @@
 
 <p <p align="center"> <img src="https://komarev.com/ghpvc/?username=pineappletwo1&label=Profile%20views&color=0e75b6&style=flat" alt="pineappletwo1" /> </p>
 
-<p align="center"> - 🌱 I’m currently learning **C#,C++** </p>
+<p align="center"> - 🌱 I’m currently learning <b>C#,C++ </b></p>
 
-<p align="center">- 💬 Ask me about **python, html, css**</p>
+<p align="center">- 💬 Ask me about <b>python, html, css</b></p>
 
-<p align="center">- 📫 How to reach me **contact@pineappletwo.ga**</p>
+<p align="center">- 📫 How to reach me <b>contact@pineappletwo.ga</b></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
