@@ -7,7 +7,7 @@
 
 <p align="center">- 💬 Ask me about <b>anything</b></p>
 
-<p align="center">- 📫 How to reach me <b>N/A</b></p>
+<p align="center">- 📫 How to reach me <b>Pineappletwo1@gmail.com</b></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
