@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pineappletwo</h1>
-<h3 align="center">A random guy who makes websites</h3>
+<h3 align="center">Random internet dude that does stuff</h3>
 
 <p <p align="center"> <img src="https://komarev.com/ghpvc/?username=pineappletwo1&label=Profile%20views&color=0e75b6&style=flat" alt="pineappletwo1" /> </p>
 
