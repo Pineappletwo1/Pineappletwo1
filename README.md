@@ -3,8 +3,6 @@
 
 <p <p align="center"> <img src="https://komarev.com/ghpvc/?username=pineappletwo1&label=Profile%20views&color=0e75b6&style=flat" alt="pineappletwo1" /> </p>
 
-<p align="center"> - 🌱 I’m currently learning <b>Java</b></p>
-
 <p align="center">- 💬 Ask me about <b>anything</b></p>
 
 <p align="center">- 📫 How to reach me <b>Pineappletwo1@gmail.com</b></p>
